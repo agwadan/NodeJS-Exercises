@@ -1,6 +1,6 @@
 //Gives us info about our environment
 
-const os = require('os');
+import os from "os";
 
 //Platform
 console.log(os.platform());
